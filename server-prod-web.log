@@ -1,0 +1,2 @@
+[seed] data already present — use `npm run demo:reset` to reset
+[VaanVizhi API] port 4300 · db=postgres · demoMode=false · production

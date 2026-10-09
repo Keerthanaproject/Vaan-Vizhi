@@ -1,0 +1,4 @@
+[migrate] applied migration 1 (postgres)
+[migrate] applied migration 2 (postgres)
+[seed] DEMO data seeded
+[VaanVizhi API] port 4100 · db=postgres · demoMode=false · production

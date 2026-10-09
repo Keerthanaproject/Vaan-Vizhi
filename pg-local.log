@@ -1,0 +1,2 @@
+[pg:local] PostgreSQL ready
+DATABASE_URL=postgres://vaanvizhi:local-test-only@localhost:54329/vaanvizhi
